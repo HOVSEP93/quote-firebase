@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-DEMO: https://h21-qoute.netlify.app/
+DEMO: https://hovsep-quote.netlify.app/
 
 Buy me a burger: https://www.buymeacoffee.com/Hovsep93
 
